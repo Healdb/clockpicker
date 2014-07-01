@@ -73,6 +73,7 @@ if (something) {
 | placement | 'bottom' | popover placement |
 | align | 'left' | popover arrow align |
 | donetext | '完成' | done button text |
+| twelvehour | false | enables twelve hour mode with AM & PM buttons
 | autoclose | false | auto close when minute is selected |
 | vibrate | true | vibrate the device when dragging clock hand |
 | fromnow | 0 | set default time to * milliseconds from now (using with default = 'now') |
